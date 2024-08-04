@@ -1,0 +1,19 @@
+{
+    "identifier": "com.biboyqg.tts.test",
+    "version": "0.1.0",
+    "category": "tts",
+    "name": "Cosyvoice",
+    "summary": "这是一个用于测试调用Cosyvoice以实现TTS的插件。",
+    "icon": "116",
+    "author": "BiboyQG",
+    "homepage": "https://banghao.live/",
+    "appcast": "",
+    "minBobVersion": "0.5.0",
+    "options": [
+        {
+            "identifier": "api_path",
+            "type": "text",
+            "title": "TTS API path: "
+        }
+    ]
+}
