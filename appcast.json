@@ -1,0 +1,13 @@
+{
+    "identifier": "com.biboyqg.tts.test",
+    "versions": [
+        {
+            "version": "0.1.0",
+            "desc": "Initial release",
+            "sha256": "b33614da46aa124bdfdfc56f873eb9f472c5988db377e509551be239a90dbb89",
+            "url": "https://github.com/BiboyQG/bob-cosyvoice/raw/main/cosyvoice.bobplugin",
+            "minBobVersion": "0.5.0",
+            "timestamp": 1722772797000
+        }
+    ]
+}
