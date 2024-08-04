@@ -2,7 +2,9 @@
 
 bob-cosyvoice is a Bob plugin that can calls self-deployed Cosyvoice service to achieve TTS.
 
-Setup video can be found [here](https://www.bilibili.com/video/BV1hdvfeAE5w/?vd_source=14b9d73f1eb26c4024888af0859b8a03)
+How is it like: [here](https://www.bilibili.com/video/BV1GKvoefEPe/)
+
+How to setup: [here](https://www.bilibili.com/video/BV1hdvfeAE5w/)
 
 Inside plugin list:
 
